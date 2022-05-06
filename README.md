@@ -15,15 +15,11 @@ I created this personal website for my Digital Product Management class. I used 
 - HTML
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+- I could add more pages with more information about myself.
+- A more professional bio
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
+- Fix drop down tab on mobile site
 
 ## Acknowledgements
 * Design and development: **Sergey Pozhilov** - http://pozhilov.com
