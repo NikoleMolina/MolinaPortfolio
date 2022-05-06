@@ -6,7 +6,6 @@ I created this personal website for my Digital Product Management class. I used 
 
 ## Table of Contents
 * [Technologies Used](#technologies-used)
-* [Features](#features)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 
